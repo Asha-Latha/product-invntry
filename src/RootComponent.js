@@ -1,7 +1,7 @@
 import React from 'react';
-import Login from './component/spa/contentcontainr/login/login';
-import Header from './component/spa/header/header';
-import Footer from './component/spa/footer/footer'
+import Login from './component/contentcontainr/login/login';
+import Header from './component/header/header';
+import Footer from './component/footer/footer'
 
 class RootComponent extends React.Component {
  
